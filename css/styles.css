@@ -159,6 +159,7 @@ body {
 /* footer */
 .footer {
   text-align: center;
+  font-size: 0.9rem;
 }
 .footer__text {
   color: var(--c-white);
