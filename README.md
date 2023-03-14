@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution URL](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/responsive-interactive-rating-using-flexbox-qPGL_x2VLK)
 - Live Site URL: [Github Pages URL](https://loganf50.github.io/interactive-rating/)
 
 ## My process
